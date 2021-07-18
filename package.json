@@ -1,6 +1,6 @@
 {
   "name": "@yiyb0603/sssstest",
-  "version": "1.0.51",
+  "version": "1.0.52",
   "description": "Made with create-react-library",
   "author": {
     "name": "yiyb0603",
@@ -12,7 +12,6 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
-  "source": "src/index.tsx",
   "engines": {
     "node": ">=10"
   },
