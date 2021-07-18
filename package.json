@@ -1,11 +1,16 @@
 {
   "name": "@yiyb0603/sssstest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Made with create-react-library",
-  "author": "yiyb0603",
+  "author": {
+    "name": "yiyb0603",
+    "email": "yiyb0603@gmail.com",
+    "url": "https://yiyb0603.github.io/my_portfolio"
+  },
   "license": "MIT",
   "repository": "",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
   "engines": {
