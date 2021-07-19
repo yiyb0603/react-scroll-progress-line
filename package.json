@@ -1,6 +1,6 @@
 {
   "name": "@yiyb0603/react-scroll-progress-line",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "🎁 This package is a bar with the ability to show at the top how far down the current scroll point is",
   "author": {
     "name": "yiyb0603",
