@@ -1,18 +1,29 @@
 {
-  "name": "@yiyb0603/react-scroll-progress-bar",
+  "name": "@yiyb0603/react-scroll-progress-line",
   "version": "1.0.0",
-  "description": "This package is a bar with the ability to show at the top how far down the current scroll point is",
+  "description": "🎁 This package is a bar with the ability to show at the top how far down the current scroll point is",
   "author": {
     "name": "yiyb0603",
     "email": "yiyb0603@gmail.com",
     "url": "https://yiyb0603.github.io/my_portfolio"
   },
+  "bugs": {
+    "url": "https://github.com/yiyb0603/react-scroll-progress-line/issues"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "directory": "https://github.com/yiyb0603/react-scroll-progress-bar"
+    "directory": "https://github.com/yiyb0603/react-scroll-progress-line"
   },
-  "homepage": "https://github.com/yiyb0603/react-scroll-progress-bar#readme",
+  "keywords": [
+    "react",
+    "component",
+    "scroll",
+    "scroll progress",
+    "scroll progress line",
+    "scroll progress bar"
+  ],
+  "homepage": "https://github.com/yiyb0603/react-scroll-progress-line#readme",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
