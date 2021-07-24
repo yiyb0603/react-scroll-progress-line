@@ -1,9 +1,7 @@
 # @yiyb0603/react-scroll-progress-line
-
 #### 🎁 This package is a bar with the ability to show at the top how far down the current scroll point is.
 
 ## Install
-
 ```bash
 npm install --save @yiyb0603/react-scroll-progress-line
 ```
@@ -15,7 +13,6 @@ yarn add @yiyb0603/react-scroll-progress-line
 ```
 
 ## Props
-
 <table>
   <tr>
     <th style="text-align: center">Name</th>
@@ -75,11 +72,9 @@ yarn add @yiyb0603/react-scroll-progress-line
 </table>
 
 ## Usage
-
 ```tsx
-import React from 'react'
-
-import ScrollProgressLine from '@yiyb0603/react-scroll-progress-line'
+import React from 'react';
+import ScrollProgressLine from '@yiyb0603/react-scroll-progress-line';
 
 const App = (): JSX.Element => {
   return (
@@ -88,16 +83,14 @@ const App = (): JSX.Element => {
       progressColor='blue'
       height='8px'
     />
-  )
+  );
 }
 
-export default App
+export default App;
 ```
 
 ## Execution
-
-![Untitled_ Jul 19, 2021 1_46 PM](https://user-images.githubusercontent.com/50941453/126104429-05d1bb2c-eb4c-4437-88d3-7e34851653b3.gif)
+![Execution](https://user-images.githubusercontent.com/50941453/126104429-05d1bb2c-eb4c-4437-88d3-7e34851653b3.gif)
 
 ## License
-
 MIT © [yiyb0603](https://github.com/yiyb0603)
